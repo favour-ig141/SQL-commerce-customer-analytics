@@ -170,32 +170,4 @@ else 'active'
 end as churn_status
 from last_order lo
 where datediff(day,last_order_date,getdate())>=90
-order by days_inactive desc
-
-
-
-select od.product_id,
-count(od.quantity) as unit_sold,
-sum(od.unit_price) as REVENUE
-from ORDER_DETAILS od
-group by od.product_id
-order by unit_sold desc
-
-
-
-
-
-select  * from customer_by_revenue
-order by total_revenue
-
-SELECT customer_id, count(*) 
-FROM ORDERS
-group by customer_id
-having count(*) >1
-
-
-
-SELECT * FROM ORDER_DETAILS
-SELECT * FROM CUSTOMERS
-SELECT * FROM PRODUCTS
-select * from ORDERS
+order by days_inactive desc;
