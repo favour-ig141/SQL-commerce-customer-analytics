@@ -73,4 +73,3 @@ INNER JOIN
 - Customer revenue distribution showed revenue concentration among high-value segments.
 
 
-![sql script](greenlife_inventory_dashboard.PNG)
