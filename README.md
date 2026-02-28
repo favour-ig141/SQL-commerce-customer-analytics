@@ -71,3 +71,6 @@ INNER JOIN
 - A portion of customers were identified as high churn risk (90+ days inactive).
 - Revenue discrepancies were detected and validated to ensure reporting accuracy.
 - Customer revenue distribution showed revenue concentration among high-value segments.
+
+
+![sql script](greenlife_inventory_dashboard.PNG)
