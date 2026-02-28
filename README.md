@@ -24,18 +24,18 @@ This project demonstrates strong SQL fundamentals combined with business-focused
 - Window Functions (RANK, SUM OVER)
 - CTEs (Common Table Expressions)
 - Views
-- …
-[7:27 pm, 27/02/2026] Favour IG: ---
+  
+ ---
 
 ### 2️⃣ Customer Revenue Ranking
 
 Ranked customers by total revenue using SQL Window Functions to identify high-value customers driving business growth.
-[7:27 pm, 27/02/2026] Favour IG: ---
+---
 
 ### 3️⃣ Top 10 Customers
 
 Identified the top 10 customers contributing the highest revenue using SQL Server's TOP clause.
-[7:28 pm, 27/02/2026] Favour IG: ---
+---
 
 ### 4️⃣ Customer Segmentation
 
@@ -45,7 +45,7 @@ Segmented customers into:
 - Low Value
 
 Based on total spending behavior to support targeted marketing strategies.
-[7:28 pm, 27/02/2026] Favour IG: ---
+ ---
 
 ### 5️⃣ Churn Risk Detection (90+ Days Inactive)
 
@@ -55,19 +55,19 @@ Identified customers who have not made a purchase in the last 90 days
 
 🧠 Key SQL Concepts Demonstrated
 INNER JOIN
-GROUP BY
-HAVING
-Aggregate Calculations
-Window Functions
-RANK()
-CTE (Common Table Expression)
-Views for reusable reporting
-Data Validation Techniques
-Date-based churn logic
+- GROUP BY
+- HAVING
+- Aggregate Calculations
+- Window Functions
+- RANK()
+- CTE (Common Table Expression)
+- Views for reusable reporting
+- Data Validation Techniques
+- Date-based churn logic
 
 ---
 📈 Example Insights Generated
-Top 10 customers contributed a significant percentage of total revenue.
-A portion of customers were identified as high churn risk (90+ days inactive).
-Revenue discrepancies were detected and validated to ensure reporting accuracy.
-Customer revenue distribution showed revenue concentration among high-value segments.
+- Top 10 customers contributed a significant percentage of total revenue.
+- A portion of customers were identified as high churn risk (90+ days inactive).
+- Revenue discrepancies were detected and validated to ensure reporting accuracy.
+- Customer revenue distribution showed revenue concentration among high-value segments.
