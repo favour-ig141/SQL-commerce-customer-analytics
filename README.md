@@ -72,4 +72,4 @@ INNER JOIN
 - Revenue discrepancies were detected and validated to ensure reporting accuracy.
 - Customer revenue distribution showed revenue concentration among high-value segments.
 
-
+![Dashboard Preview](greenlife_inventory_dashboard.PNG)
